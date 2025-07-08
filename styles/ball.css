@@ -1,5 +1,11 @@
 div{
   background-color: cornflowerblue;
   border-radius: 15px;
+  padding: 10px;
+  margin-bottom: 10px;
 
+}
+h3{
+  font-style: italic;
+  
 }
